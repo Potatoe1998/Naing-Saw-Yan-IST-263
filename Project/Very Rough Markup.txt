@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+    <title> Solar Sale </title>
+</head>
+<!-- Css style goes here -->
+<body>
+<section>
+<h1> Solar Sale Mission Statement <h1>
+<p> the mission stmeant of Solar Sale is asdsadsad <br>
+sadasdsad the mission stmeant of Solar Sale is asdsadsad<br>
+sadasdsad the mission stmeant of Solar Sale is asdsadsad<br>
+sadasdsad the mission stmeant of Solar Sale is asdsadsad<br>
+sadasdsad </p>
+</section>
+<h2> Company History <h/2> 
+
+<p>SOlar sale was founed in asdasd SOlar sale was founed in asdasd<br>
+SOlar sale was founed in asdasd SOlar sale was founed in asdasd<br>
+SOlar sale was founed in asdasdSOlar sale was founed in asdasd </p>
+
+
+<h3>  The foudners </h3>
+
+<footer>
+<h4> Solar Sale </h4>
+<p> copyrigth information <p>
+</footer>
+
+</body>
+
+
